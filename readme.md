@@ -4,7 +4,7 @@
 
 ## Introducción ##
 
-Gervasio tiene un gimnasio y le gustaría digitalizar sus horarios, así que te pide que digitalices una de sus facturas, para ver si queda convencido.
+Gervasio tiene un gimnasio y le gustaría digitalizar sus horarios, te pide que digitalices una de sus facturas, para ver si queda convencido.
 
 ![](factura.png)
 
